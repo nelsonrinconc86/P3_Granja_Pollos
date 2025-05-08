@@ -1,3 +1,5 @@
+from Base_datos import Base_datos
+
 class Pollo:
   #metodos constructores
   def __init__(self, id_pollo, dato_edad):
